@@ -9,7 +9,6 @@ A lightweight and customizable Color Picker Dialog built using **Jetpack Compose
 - 🧩 Fullscreen Color Picker Dialog
 - 🎚 Hue, Saturation, Brightness, and Alpha sliders
 - 🎨 Predefined Material Design Color Swatches
-- 🔁 Show current and previously selected color
 - 🟦 Real-time HEX and RGB values
 - ⚙️ Optional: Show/hide color value preview
 - 💡 Easy to integrate into any Compose-based project
