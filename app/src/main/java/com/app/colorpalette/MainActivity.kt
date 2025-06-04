@@ -55,7 +55,6 @@ class MainActivity : ComponentActivity() {
                         Button(onClick = { showColorPicker = true }) {
                             Text("Open Color Picker")
                         }
-
                         if (showColorPicker) {
                             ColorPickerDialog(
                                 showColorValues = true,
